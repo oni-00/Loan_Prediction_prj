@@ -7,7 +7,9 @@ Environment:
 
 Anaconda2-4.4.0
 
-Jupyter notebook 
+Jupyter notebook
+
+Python 2.4
 
 
 
